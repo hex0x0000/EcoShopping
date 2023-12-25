@@ -1,0 +1,82 @@
+[
+  {
+    "id": "9555684679703",
+    "id_format": 32,
+    "price": "1.00",
+    "currency": "€",
+    "title": "Mais",
+    "type": "corn",
+    "description": "Del mais importato da chissà dove.",
+    "image": "assets/images/corn1.jpg",
+    "score":  20,
+    "carbon_footprint": 100,
+    "pesticides": [
+      {
+        "name": "abc",
+        "description": "def",
+        "danger": 3,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "id": "123456789012",
+    "id_format": 32,
+    "price": "1.00",
+    "currency": "€",
+    "title": "Mais Biologico",
+    "type": "corn",
+    "description": "Del mais biologico.",
+    "image": "assets/images/corn.jpg",
+    "score":  93,
+    "carbon_footprint": 100,
+    "pesticides": [
+      {
+        "name": "abc",
+        "description": "def",
+        "danger": 3,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "id": "8058778844816",
+    "id_format": 32,
+    "price": "0.50",
+    "currency":  "€",
+    "title": "Mela",
+    "type": "apple",
+    "description": "Una mela coltivata con molti pesticidi.",
+    "image": "assets/images/apple.jpg",
+    "score": 18,
+    "carbon_footprint": 100,
+    "pesticides": [
+      {
+        "name": "abc",
+        "description": "def",
+        "danger": 3,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "id": "9780201379624",
+    "id_format": 32,
+    "price": "1.50",
+    "currency":  "€",
+    "title": "Mela Biologica",
+    "type": "apple",
+    "description": "Una mela coltivata biologicamente.",
+    "image": "assets/images/apple.jpg",
+    "score": 85,
+    "carbon_footprint": 100,
+    "pesticides": [
+      {
+        "name": "abc",
+        "description": "def",
+        "danger": 3,
+        "quantity": 20
+      }
+    ]
+  }
+]
